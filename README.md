@@ -1,23 +1,31 @@
 # Time Tracking Dashboard
 
-This project is a responsive dashboard designed to display daily, weekly, and monthly stats for various activities. It was built as part of a challenge from Frontend Mentor, with the goal of replicating a given design as closely as possible.
+![Design preview for the Time tracking dashboard coding challenge](./design/desktop-preview.jpg)
 
-To view the project, you can visit the live demo [here](https://matbac85.github.io/time-tracking-dashboard/).
+## Overview
+
+This time tracking dashboard was developed as a solution to the Frontend Mentor challenge. The challenge required building a dashboard that closely matches the provided design, including switching between different time period views and working with JSON data for activities.
 
 ## Features
 
-- Responsive design for optimal viewing on different devices.
-- Hover states for all interactive elements to enhance user experience.
-- Ability to switch between viewing Daily, Weekly, and Monthly stats.
+- Users can switch between viewing Daily, Weekly, and Monthly stats.
+- Responsive layout for different screen sizes.
+- Hover states for all interactive elements on the page.
+
+## Expected Behavior
+
+- Users should be able to view the optimal layout for the dashboard depending on their device's screen size.
+- Hover states should be implemented for all interactive elements.
+- Users should be able to switch between viewing Daily, Weekly, and Monthly stats seamlessly.
 
 ## Technologies Used
 
 - HTML
 - CSS
 - JavaScript
+- JSON (for activity data)
 
-## Credits
+## Links
 
-- Frontend Mentor for providing the design challenge.
-- [JSON data](data.json) provided by Frontend Mentor for activities.
-
+- Solution URL: [Time Tracking Dashboard Solution](https://matbac85.github.io/time-tracking-dashboard/)
+- Frontend Mentor Profile: [My Frontend Mentor Profile](https://www.frontendmentor.io/profile/matbac85)
